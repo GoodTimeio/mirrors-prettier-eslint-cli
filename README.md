@@ -12,7 +12,7 @@ For prettier-eslint-cli: see https://github.com/prettier/prettier-eslint-cli
 
 Add this to your `.pre-commit-config.yaml`:
 
-    -   repo: git://github.com/lfhbento/mirrors-prettier-eslint-cli
+    -   repo: git://github.com/GoodTimeio/mirrors-prettier-eslint-cli
         sha: ''  # Use the sha you want to point at
         hooks:
         -   id: prettier-eslint-cli
